@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **elyznetics/elyznetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,4 @@ I'm currently working on my biology degree.<br>I'm looking to collaborate on any
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
