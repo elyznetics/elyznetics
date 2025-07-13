@@ -1,14 +1,4 @@
-
-
-<!--
-**elyznetics/elyznetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 I'm currently working on my biology degree.<br>I'm looking to collaborate on any passion projects.<br>I'm looking to help on making a wet and dry soil moisture detector.<br>I'm currently learning more C++ and Java. <br>I'm self taught, willing to learn more though
 
 
@@ -26,4 +16,3 @@ I'm currently working on my biology degree.<br>I'm looking to collaborate on any
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
